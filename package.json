@@ -1,0 +1,14 @@
+{
+  "name": "parse-f1401803",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitalii Misechko",
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^4.2.2"
+  }
+}

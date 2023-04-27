@@ -1,0 +1,1 @@
+This repo contains a script that parses `F1401803.XML`-response about personal income from UA Tax Office. The script prints the parsed data in the form of CSV.
